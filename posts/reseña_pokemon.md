@@ -3,7 +3,7 @@
 
 ## Cosas a destacar de este pokemon 
 
-[Alt text](Esmeralda1.png)
+[Alt text](../images/Esmeralda1.png)
 
 Pokémon: Esmeralda" es un clásico atemporal de la franquicia Pokémon que sigue siendo apreciado por los fanáticos de todas las edades. Este juego, lanzado originalmente para la Game Boy Advance, es una versión mejorada de los juegos "Rubí" y "Zafiro," y ofrece a los jugadores una emocionante aventura en la región de Hoenn.
 
